@@ -173,8 +173,8 @@ function Home() {
           </div>
         </div>
         <div className="flex gap-2">
-          <button className="px-4 whitespace-nowrap" onClick={()=>Navigate("/login")}>Sign up</button>
-          <button className="rounded-[30px] bg-white text-black p-3 whitespace-nowrap" onClick={()=>Navigate("/login")}>
+          <button className="px-4 whitespace-nowrap" onClick={()=>Navigate("/spotify_clone/login")}>Sign up</button>
+          <button className="rounded-[30px] bg-white text-black p-3 whitespace-nowrap" onClick={()=>Navigate("/spotify_clone/login")}>
             Log in
           </button>
         </div>

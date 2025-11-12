@@ -11,7 +11,7 @@ function Login() {
     var pwd = document.getElementById("pwd").value;
 
     if (pwd === "hi") {
-      navigate("/home");
+      navigate("/spotify_clone");
     } else {
       seterror("wrong password");
     }

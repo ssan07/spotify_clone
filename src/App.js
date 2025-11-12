@@ -15,8 +15,8 @@ function App() {
       {/* {!location && <Navbar />} */}
       <Suspense fallback={<div className='w-screen items-center h-screen bg-black'><div className="text-center items-center bg-black text-white pt-10 text-xl font-bold">Loading...</div></div>}>
         <Routes>
-          <Route path='/login' element={<Login />} />
-          <Route path='/' element={<Home />} />
+          <Route path='/spotify_clone/login' element={<Login />} />
+          <Route path='/spotify_clone' element={<Home />} />
         </Routes>
       </Suspense>
     </>
