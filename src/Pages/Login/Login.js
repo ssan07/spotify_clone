@@ -11,7 +11,10 @@ function Login() {
     var pwd = document.getElementById("pwd").value;
 
     if (pwd === "hi") {
-      navigate("/spotify_clone");
+      seterror("Logged in");
+      setTimeout(()=>{
+        navigate("/spotify_clone");
+      },2000)
     } else {
       seterror("wrong password");
     }
@@ -27,6 +30,7 @@ function Login() {
           >
             <div className="w-full align-middle text-center ">
               <img
+                alt="logo"
                 className="h-[50px] w-[50px] mx-auto rounded-[50%]"
                 src={spotifylogo}
               />
