@@ -1,0 +1,32 @@
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(120,120,120,0.4) #171717; /* Firefox: semi-transparent thumb, dark track */
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 15px;
+  background: #171717; /* Track dark */
+}
+
+/* Hide scroller arrows/buttons */
+.custom-scrollbar::-webkit-scrollbar-button {
+  display: none;
+  height: 0;
+  width: 0;
+}
+
+/* Tall, rectangular, semi-transparent thumb */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(120,120,120,0.4); /* Semi-transparent grey */
+  border-radius: 0;                  /* Rectangular */
+  border: 3px solid #171717;         /* Blend with track edges */
+}
+
+/* Track: black/dark grey */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #171717;
+}
+
+.shadow-inset {
+  box-shadow: inset 0 2px 12px 0 rgba(0,0,0,0.35);
+}

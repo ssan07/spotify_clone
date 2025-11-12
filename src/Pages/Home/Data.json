@@ -1,0 +1,69 @@
+{
+  "cards1": [
+    { "k": 1, "linkurl": "https://i.scdn.co/image/ab67616d0000b273e2b41d0e6e8205e913701a42", "name": "Thalapathy Kacheri", "artist": "Anirudh Ravichander, Thalapathy Vijay, Arivu"},
+    { "k": 2, "linkurl": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96", "name": "Shape of You", "artist": "Ed Sheeran" },
+    { "k": 3, "linkurl": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452", "name": "Starboy", "artist": "The Weeknd, Daft Punk" },
+    { "k": 4, "linkurl": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a", "name": "Faded", "artist": "Alan Walker" },
+    { "k": 5, "linkurl": "https://i.scdn.co/image/ab67616d00001e02e6095c382c2853667c1623eb", "name": "Senorita", "artist": "Shawn Mendes, Camila Cabello" },
+    { "k": 6, "linkurl": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431", "name": "Peaches", "artist": "Justin Bieber, Daniel Caesar, Giveon" },
+    { "k": 7, "linkurl": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5", "name": "Dynamite", "artist": "BTS" },
+    { "k": 8, "linkurl": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a", "name": "Believer", "artist": "Imagine Dragons" },
+    { "k": 9, "linkurl": "https://i.scdn.co/image/ab67616d00001e02c6f7af36ecdc3ed6e0a1f169", "name": "Dance Monkey", "artist": "Tones And I" },
+    { "k": 10, "linkurl": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96", "name": "Perfect", "artist": "Ed Sheeran" },
+    { "k": 11, "linkurl": "https://i.scdn.co/image/ab67616d00001e0249e0134c686547c28b7c999f", "name": "Cheap Thrills", "artist": "Sia, Sean Paul" },
+    { "k": 12, "linkurl": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2", "name": "Someone You Loved", "artist": "Lewis Capaldi" },
+    { "k": 13, "linkurl": "https://i.scdn.co/image/ab67616d00001e026239187793c9e492e687db01", "name": "Old Town Road", "artist": "Lil Nas X, Billy Ray Cyrus" },
+    { "k": 14, "linkurl": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2", "name": "Bad Habits", "artist": "Ed Sheeran" },
+    { "k": 15, "linkurl": "https://i.scdn.co/image/ab67616d00001e0254e544672baa16145d67612b", "name": "Rockstar", "artist": "Post Malone, 21 Savage" },
+    { "k": 16, "linkurl": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a", "name": "drivers license", "artist": "Olivia Rodrigo" }
+  ],
+  "cards2": [
+    { "k": 1, "linkurl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c03959f67a243a69ff14ad3b0", "name": "A.R. Rahman", "artist": "Artist" },
+    { "k": 2, "linkurl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/artistmix/4zCH9qm4R2DADamUHMCa6O/en", "name": "Anirudh Ravichander", "artist": "Artist" },
+    { "k": 3, "linkurl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843f62d1e7cabffe4511903b9f", "name": "Shreya Ghoshal", "artist": "Artist" },
+    { "k": 4, "linkurl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8474d28e2d8f83ff5f0b653212", "name": "Arijit Singh", "artist": "Artist" },
+    { "k": 5, "linkurl": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2yXXGB-default.jpg", "name": "Camila Cabello", "artist": "Artist" },
+    { "k": 6, "linkurl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/artistmix/6eUKZXaKkcviH0Ku9w2n3V/en", "name": "Ed Sheeran", "artist": "Artist" },
+    { "k": 7, "linkurl": "https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc", "name": "Dua Lipa", "artist": "Artist" },
+    { "k": 8, "linkurl": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4mwRSU-default.jpg", "name": "Shawn Mendes", "artist": "Artist" },
+    { "k": 9, "linkurl": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62", "name": "Billie Eilish", "artist": "Artist" },
+    { "k": 10, "linkurl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/artistmix/3Nrfpe0tUJi4K4DXYWgMUX/en", "name": "BTS", "artist": "Artist" },
+    { "k": 11, "linkurl": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7", "name": "Adele", "artist": "Artist" },
+    { "k": 12, "linkurl": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2YqUuI-default.jpg", "name": "Imagine Dragons", "artist": "Artist" },
+    { "k": 13, "linkurl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/artistmix/4IKVDbCSBTxBeAsMKjAuTs/en", "name": "Armaan Malik", "artist": "Artist" },
+    { "k": 14, "linkurl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847502f1757aa63c1a4bd6f67a", "name": "Justin Bieber", "artist": "Artist" },
+    { "k": 15, "linkurl": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3vuU6c-default.jpg", "name": "Sia", "artist": "Artist" },
+    { "k": 16, "linkurl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849723dd98e18fe3cf4be2e205", "name": "Alan Walker", "artist": "Artist" }
+   ],
+    "cards": [
+    { "k": 1, "linkurl": "46273834b3", "name": "df2ads", "artist": "sf"},
+    { "k": 2, "linkurl": "56623f02e4", "name": "df2ads", "artist": "sf"},
+    { "k": 3, "linkurl": "8c17a3a630", "name": "df2ads", "artist": "sf"},
+    { "k": 4, "linkurl": "b586d89ba3", "name": "df2ads", "artist": "sf"},
+    { "k": 5, "linkurl": "0fd87b7e4e", "name": "df2ads", "artist": "sf"},
+    { "k": 6, "linkurl": "55700-6004", "name": "df2ads", "artist": "sf"},
+    { "k": 7, "linkurl": "04cb899fa3", "name": "df2ads", "artist": "sf"},
+    { "k": 8, "linkurl": "46273834b3", "name": "df2ads", "artist": "sf"},
+    { "k": 9, "linkurl": "519f528dfe", "name": "df2ads", "artist": "sf"},
+    { "k": 10, "linkurl": "805c876b6", "name": "df2ads", "artist": "sf"},
+    { "k": 11, "linkurl": "78431-fc8", "name": "df2ads", "artist": "sf"},
+    { "k": 12, "linkurl": "77687-573", "name": "df2ads", "artist": "sf"},
+    { "k": 13, "linkurl": "48cbd481c", "name": "df2ads", "artist": "sf"},
+    { "k": 14, "linkurl": "04cda38eb", "name": "df2ads", "artist": "sf"},
+    { "k": 15, "linkurl": "865dc9da9", "name": "df2ads", "artist": "sf"},
+    { "k": 16, "linkurl": "94c94541e", "name": "df2ads", "artist": "sf"},
+    { "k": 17, "linkurl": "031d8034a", "name": "df2ads", "artist": "sf"},
+    { "k": 18, "linkurl": "48285-aef", "name": "df2ads", "artist": "sf"},
+    { "k": 19, "linkurl": "af3ef285b", "name": "df2ads", "artist": "sf"},
+    { "k": 20, "linkurl": "3d56e92ce", "name": "df2ads", "artist": "sf"}
+  ],
+    "cards3": [
+    { "k": 1, "linkurl": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg", "name": "Top 50 - Global", "artist": "Spotify" },
+    { "k": 2, "linkurl": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_in_default.jpg", "name": "Top 50 - India", "artist": "Spotify" },
+    { "k": 3, "linkurl": "https://i.scdn.co/image/ab67706f00000002fe7d88635f68898334869eef", "name": "Hot Hits Hindi", "artist": "Spotify" },
+    { "k": 4, "linkurl": "https://i.scdn.co/image/ab67616d00001e0281a6e7f538e99c99c7317826", "name": "Chill Hits", "artist": "Spotify" },
+    { "k": 5, "linkurl": "https://i.scdn.co/image/ab67706f000000024dd6e7535a778240e11e77c8", "name": "Trending Now India", "artist": "Spotify" }
+    
+
+ ]
+}
